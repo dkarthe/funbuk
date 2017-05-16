@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: KD
+bio: A Man who live the world to survive
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://funbuk.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,36 +34,36 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: kdcud
+twitter: dkaarthik
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: dkaarthik
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: dkarthe
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: kd@datamail.in
 
 authors:
-    johndoe:
-        name: John Doe
+    FunBuk:
+        name: KD
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: dkaarthik
     jamesfoster:
-        name: James Foster
+        name: KD
         bio: A Man who develops software with coffee
         external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/profile.jpg
+        twitter: dkaarthik
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
