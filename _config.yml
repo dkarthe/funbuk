@@ -1,11 +1,11 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+title: FunBuk
+desctiption: FunBuk is a responsive jekyll theme which includes pinterest like pins.
+url: http://funbuk.com/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/funbuk"
 
 
 sass:
@@ -28,7 +28,7 @@ highlight: rouge
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-
 
 # Comments
 disqus-shortname: webjeda-demo
