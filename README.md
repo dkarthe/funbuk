@@ -1,22 +1,20 @@
-## HCZ Material theme
+# Dasper
+Dasper is a [Jekyll](http://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/)
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+## Live demo
+[ozgrozer.com](http://ozgrozer.com)
 
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+## Includes
+- Pagination
+- 404 page
+- Fastclick([@ftlabs](https://github.com/ftlabs/fastclick))
+- Syntax highlighting([@PrismJS](https://github.com/PrismJS/prism))
+- Sitemap generator([@kinnetica](https://github.com/kinnetica/jekyll-plugins))
+- RSS generator([@agelber](https://github.com/agelber/jekyll-rss))
+- HTML compressor(a simple [plugin](https://github.com/ozgrozer/dasper/blob/master/_plugins/htmlCompressor.rb) written by me)
+- Addthis sharing buttons
+- Disquss comments
+- Google analytics tracking
 
-#### Feature
-
-* Sitemap and XML Feed
-* Site Search 
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
-
-#### Screenshot
-
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+## Copyright & License
+Copyright (c) 2016 - Released under the MIT License.
