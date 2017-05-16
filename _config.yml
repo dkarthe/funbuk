@@ -1,7 +1,7 @@
 pygments: true
-permalink: /otter-pop/:year/:month/:day/:title
+permalink: /funbuk/:year/:month/:day/:title
 markdown: rdiscount
 exclude: ['.git']
-name: "Otter Pop"
+name: "FunBuk"
 description: "The world's greated jekyll theme"
-url: http://tybenz.com/otter-pop
+url: http://funbuk.com
