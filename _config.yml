@@ -1,38 +1,31 @@
-# Website details
-name: ""
-description: ""
-email: ""
-author: ""
-lang: ""
-locale: ""
-
-# Jekyll
-paginate: 10
-highlighter: ""
+# top level stuff you probably don't need to touch
+highlighter: rouge
 markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
 gems: [jekyll-paginate]
-timezone: Europe/Istanbul
-paginateLabel: page
-paginate_path: "page/:num"
-permalink: /:categories/:year/:month/:day/:title
-baseurl: http://funbuk.com
+port: 3000
+safe: true
 
-# Includes
-addthisId: ""
-disqusUsername: ""
-googleAnalyticsId: ""
 
-# Search engine verifications
-bing: ""
-yandex: ""
-google: ""
+# edit here to achieve your personal greatness
+url: http://username.github.io/
+baseurl: /sustain/
+title: Chris Turner
+author: Chris Turner
+description: Personal blog and resume
+avatar: profile.png
+email: yourname@email.com
+github: biomadeira/sustain # username
+twitter: username
+linkedin: username
+stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: username
+google_analytics: UA-69391421-1
 
-#Sitemap
-sitemap:
-    file: "/sitemap.xml"
-    exclude:
-        - "/404.html"
-    include_posts:
-        - "/index.html"
-    change_frequency_name: "daily"
-    priority_name: "1.00"
+
+# needed for travis-ci build
+exclude: [vendor]
