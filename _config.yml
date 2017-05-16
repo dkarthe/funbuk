@@ -1,29 +1,28 @@
-title: Book
-description: A simple Jekyll theme
-url: funbuk.com
-avatar: # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
-favicon: /assets/img/favicon.ico
-google_analytics: # google analytics id
-disqus_shortname: # disqus_shortname for disqus comment system
+title: John Smith
+description: My Personal Blog
+author: John Smith
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
+about: Freelance developer
 
-# Content for about page.
-# Each paragraph will be a <p> tag which is inserted to about
-# page. text_align is used to align the text. Default is left.
-# Other two values are center and right. If there are some links
-# in your paragraph, use '?link?' to take the place of a link.
-# And then write the real link under links. name is the link
-# text. url is the link. when external is set as true, then
-# a new whidow will be open when link is clicked.
-#
-about:
-  - paragraph: ?link?, a simple Jekyll theme. Built by ?link?
-    text_align: center
-    links:
-      - name: Book
-        url: https://github.com/kkninjae/book
-        external: true
-      - name: Lang Liu
-        url: http://kkninjae.com/about/
-        external: false
+baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
+url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
-    
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
