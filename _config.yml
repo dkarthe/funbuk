@@ -14,8 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
-
+resume-url: https://1drv.ms/b/s!AvpTiP6giJtpjNkKXtknMJdE1eAppg
 url: http://funbuk.com
 # your url: http://USERNAME.github.io
 
