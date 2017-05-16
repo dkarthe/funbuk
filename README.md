@@ -1,7 +1,8 @@
-# Otter Pop
+Demo: [http://webjeda.com/karna](http://webjeda.com/karna)
 
-The world's greatest Jekyll theme.
+## Installation
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready.
 
-Example: <http://tybenz.com>
-
-![](http://jekyllthemes.org/thumbnails/otter-pop.png)
+For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
