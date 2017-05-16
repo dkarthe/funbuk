@@ -22,6 +22,6 @@ I am experienced in Managing and troubleshooting routers and switches. Router Li
 <h2>Experience & Projects</h2>
 
 <ul>
-	<li><a href="http://bel-india.co.in/">Bharat Electronics Limited, Bangalore./a></li>
+	<li><a href="http://bel-india.co.in/">Bharat Electronics Limited, Bangalore.</a></li>
 	<li>NTRO</li>
 </ul>
