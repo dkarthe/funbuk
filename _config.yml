@@ -1,0 +1,7 @@
+pygments: true
+permalink: /funbuk/:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "FunBuk"
+description: "The world's greated jekyll theme"
+url: http://funbuk.com
