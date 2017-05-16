@@ -12,11 +12,11 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://funbuk.com
-baseurl: //
+baseurl: http://funbuk.com
 title: FunBuk
 author: KD
 description: Personal blog and resume
-avatar: profile.png
+avatar: #
 email: kd@datamail.in
 github: dkarhte # username
 twitter: dkaarthik
