@@ -1,0 +1,6 @@
+---
+published: true
+---
+## A New Post
+
+HI this is sample file post
