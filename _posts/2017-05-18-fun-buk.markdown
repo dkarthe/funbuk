@@ -11,4 +11,4 @@ HI this is sample file post
 
 ![Funbbuk]({{site.baseurl}}/_posts/pixa-19.jpg)
 
-<img class="image" src="http://funbuk.com//_posts/pixa-19.jpg" alt="Alt Text">
+<img class="image" src="http://funbuk.com//_posts/pixa-19.jpg">
