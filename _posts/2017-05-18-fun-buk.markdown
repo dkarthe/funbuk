@@ -5,4 +5,4 @@ published: true
 
 HI this is sample file post
 
-<img class="image" src="({{site.baseurl}}/_posts/pixa-19.jpg">
+![IMG]({{site.baseurl}}//images/BingWallpaper-2017-05-13.jpg)
