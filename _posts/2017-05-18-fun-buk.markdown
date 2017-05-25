@@ -4,4 +4,4 @@ published: true
 ## A New Post
 
 HI this is sample file post
-funbuk/_posts/ales-krivec-192941.jpg
+![]({{site.baseurl}}/_posts/BingWallpaper-2017-05-13.jpg)
