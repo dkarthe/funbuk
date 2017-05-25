@@ -5,7 +5,7 @@ url: http://funbuk.com/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "http://funbuk.com"
+baseurl: "https://funbuk.com"
 
 
 sass:
