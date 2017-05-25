@@ -9,4 +9,4 @@ HI this is sample file post
 
 ![New]({{site.baseurl}}/_posts/BingWallpaper-2017-05-13.jpg)
 
-funbuk/_posts/pixa-19.jpg
+![Funbbuk]({{site.baseurl}}/_posts/pixa-19.jpg)
