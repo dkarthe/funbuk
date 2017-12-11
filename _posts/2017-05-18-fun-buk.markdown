@@ -1,8 +1,0 @@
----
-published: true
----
-## A New Post
-
-HI this is sample file post
-
-![IMG]({{site.baseurl}}//images/BingWallpaper-2017-05-13.jpg)
